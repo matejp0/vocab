@@ -3,7 +3,7 @@ Vocab is a tool for preparing for vocabulary exams. It picks random word from th
 
 ## Installation
 ```
-git clone https://github.com/matejp0/definitions
+git clone https://github.com/matejp0/vocab
 ```
 ```
 cd definitions
