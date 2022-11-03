@@ -1,5 +1,5 @@
 # Vocabulary exam preparer (vocab)
-It picks random word from the list and prompts you to write the definition, that is on the other side of `=`. I find it a really effective method of preparing for vocabulary exams, because the ordering is always different.
+Vocab is a tool for preparing for vocabulary exams. It picks random word from the list and prompts you to write the definition, that is on the other side of `=`. I find it a really effective method of preparing for vocabulary exams, because the ordering is always different.
 
 ## Installation
 ```
